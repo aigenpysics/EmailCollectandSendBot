@@ -23,8 +23,8 @@ def send_email(sender_email, sender_password, recipient_email, subject, message)
 recipient_email = 'asap____@naver.com'  # Assuming email address is in the first column
 #Debug
 #print(f"{idx+1}, {recipient_email}")
-subject = "근호형님에게 ..."  # Set your desired email subject
-message = "여소좀 ㅎ"  # Set your desired email message
+subject = "test..."  # Set your desired email subject
+message = "test"  # Set your desired email message
 
 # Set your sender email and password
 sender_email = 'gimjeongheon38@gmail.com'
